@@ -1,4 +1,4 @@
-# Artificial Pancreas System (APS) — Week 2 Unit Testing
+# Artificial Pancreas System (APS) 
 
 A simplified simulation of an **Artificial Pancreas System** built with Python.  
 The system models how blood glucose levels respond to **meals**, **exercise**, and **insulin delivery**, and automatically predicts the right action to maintain glucose balance.
