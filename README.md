@@ -3,8 +3,7 @@
 A simplified simulation of an **Artificial Pancreas System** built with Python.  
 The system models how blood glucose levels respond to **meals**, **exercise**, and **insulin delivery**, and automatically predicts the right action to maintain glucose balance.
 
-This project demonstrates:
-- Object-Oriented Programming principles  
+This project demonstrates: 
 - Method simulation for physiological processes  
 - Decision logic (high/low glucose regulation)  
 - Automated testing using `pytest`  
